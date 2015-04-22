@@ -6,7 +6,6 @@
 
 	Copyright (C) 2013 ApplusForm.com All rights reserved.
 -->
-
 <MOML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.applusform.com/xsd/moml_appInfo.xsd">
 	<APPLICATIONINFO>
 		<START url="ui/start.xml" /> 
