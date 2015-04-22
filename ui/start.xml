@@ -87,7 +87,7 @@
 	</FUNCTION>
 	
 	<FUNCTION id="search">
-		<CMD cmd="caller.text='클릭'"
+		<CMD cmd="caller.text='클릭'"/>
 		<CMD cmd="url = 'http://api.visitkorea.or.kr/openapi/service/rest/KorService/areaBasedList?' + userVariable.commonParam"/>
 		<CMD cmd="url = url + '&amp;areaCode=' + area.value" />
 		<CMD cmd="url = url + '&amp;sigunguCode=' + sigungu.value" />
